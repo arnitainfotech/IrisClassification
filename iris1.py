@@ -16,7 +16,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 
 # Install Streamlit if not already installed
-!pip install streamlit -qq
+
 
 # ------------------------------
 # Load Dataset & Train Model
